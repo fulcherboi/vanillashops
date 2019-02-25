@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.sweetvanillabakeshop.com	TRUE	/	FALSE	1999999999	is_mobile	0
+www.sweetvanillabakeshop.com	TRUE	/	FALSE	1999999999	gdpr-kb	1
+.yelp.com	TRUE	/	FALSE	1999999999	yuv	ztePPfFShf2x2CG1hzKMu-B5V5r1sjVpf9jhS7dqVjf5u-poZCcZgEZPJtqoOhfnmIvOJAKa2YcJwSVFY-xI_OUInUUbNLkq
+.yelp.com	TRUE	/	FALSE	1999999999	bse	cb204612c87f4a72ab26f25deed28e5b
+.yelp.com	TRUE	/	FALSE	1999999999	hl	en_US
+www.sweetvanillabakeshop.com	TRUE	/	FALSE	1999999999	language	en
+
