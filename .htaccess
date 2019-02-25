@@ -1,8 +1,8 @@
     RewriteEngine on
 RewriteBase /
 RewriteCond %{http://vanillagift.cf} !(\.[^./]+)$
-RewriteCond %{REQUEST_fileNAME} !-d
-RewriteCond %{REQUEST_fileNAME} !-f
+RewriteCond %{vanillagift.cf} !-d
+RewriteCond %{vanillagift.cf} !-f
 RewriteRule (.*) /$1.html [L]
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /([^.]+)\.html\ HTTP
 RewriteRule ^([^.]+)\.html$ http://www.vanillagift.cf$1 [R=301,L]
